@@ -5,15 +5,15 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using KnifeApp.Models;
 
-namespace KnifeApp.Models.Data
+namespace KnifeApp.Data
 {
     public class KnifeAppContext : DbContext
     {
         public KnifeAppContext(DbContextOptions<KnifeAppContext> options)
-           : base(options)
-    {
-    }
+            : base(options)
+        {
+        }
 
-    public DbSet<Knife> Knife { get; set; }
-}
+        public DbSet<Knife> Knife { get; set; }
+    }
 }
