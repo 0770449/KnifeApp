@@ -29,13 +29,12 @@ namespace KnifeApp
         public void ConfigureServices(IServiceCollection services)
         {
             
-            services.AddDbContext<ApplicationDbContext>(options =>
+            services.AddDbContext<KnifeAppContext>(options =>
                 options.UseSqlServer(
-                    Configuration.GetConnectionString("DefaultConnection")));
+                    Configuration.GetConnectionString("KnifeAppContext")));
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
-            services.AddDbContext< KnifeAppContext>(options =>
-     options.UseSqlServer(Configuration.GetConnectionString("KnifeAppContext")));
+                .AddEntityFrameworkStores<KnifeAppContext>();
+            
             services.AddControllersWithViews();
             services.AddRazorPages();
 
