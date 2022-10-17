@@ -54,7 +54,7 @@ namespace KnifeApp.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Price,Type,Colour,Size,Image")] Knife knife)
+        public async Task<IActionResult> Create([Bind("Id,Name,Price,Type,Colour,Size,Image,Rating")] Knife knife)
         {
             if (ModelState.IsValid)
             {

@@ -28,7 +28,9 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Small",
+                        Rating = "R",
                         Image = "bestpocket knives1.jpeg"
+
                     },
 
 
@@ -40,6 +42,7 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Medium Tip",
+                        Rating = "R",
                         Image = "bestpocket knives2.jpeg"
                     },
 
@@ -50,6 +53,7 @@ namespace KnifeApp.Models
                          Type = "Felt ",
                          Colour = "Black",
                          Size = "Small",
+                         Rating = "R",
                          Image = "gerber.jpeg"
                      },
                     new Knife
@@ -59,6 +63,7 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Brown",
                         Size = "Small",
+                        Rating = "R",
                         Image = "knife3.jpeg"
                     },
                     new Knife
@@ -68,6 +73,7 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Small",
+                        Rating = "R",
                         Image = "knifeblades.jpeg"
                     },
                      new Knife
@@ -77,6 +83,7 @@ namespace KnifeApp.Models
                          Type = "Felt ",
                          Colour = "White",
                          Size = "Small",
+                         Rating = "R",
                          Image = "knifeplanet.jpeg"
                      },
                     new Knife
@@ -86,6 +93,7 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Small",
+                        Rating = "R",
                         Image = "popular.jpeg"
                     },
 
@@ -96,6 +104,7 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Small",
+                        Rating = "R",
                         Image = "rollerknife.jpeg"
                     },
 
@@ -106,6 +115,7 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Small",
+                        Rating = "R",
                         Image = "stanely.jpeg"
                     },
 
@@ -116,6 +126,7 @@ namespace KnifeApp.Models
                          Type = "Felt ",
                          Colour = "Black",
                          Size = "Small",
+                         Rating = "R",
                          Image = "strange.jpeg"
                      },
 
@@ -128,6 +139,7 @@ namespace KnifeApp.Models
                          Type = "Felt ",
                          Colour = "Black",
                          Size = "Small",
+                         Rating = "R",
                          Image = "knifeblades.jpeg"
                      },
 
@@ -140,6 +152,7 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Small",
+                        Rating = "R",
                         Image = "stanely.jpeg"
                     }
 
