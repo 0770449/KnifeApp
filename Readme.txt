@@ -74,4 +74,10 @@ For this purpose i downloaded some pictures and added all of the images in the w
  https://images.squarespace-cdn.com/content/v1/5f074e1b6ab0e175b0642c64/1595789769436-36CEAFH3OCH074WCUILV/20200407_155258.jpg?format=500w
 
 And also added link of different Knives images inside the seedData. cs file 
+ In order to make attractive I added css on both files namely Index.cshtml and Privacy.cshtml inside Views/Home folder for the Navigator Knife Co.
+
+Finally, tested the whole project.
+At the end wants to add more css, but lack of time I left it.
+
+
 
