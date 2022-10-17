@@ -68,5 +68,10 @@ And also A About Us page which is displaying the information regarding the emplo
 
 I forget to take the pictures of kinves.
 For this purpose i downloaded some pictures and added all of the images in the wwwrootfolder under image folder
+ 
+ Images address are:https://images.squarespace-cdn.com/content/v1/5f074e1b6ab0e175b0642c64/1595789639091-GK85WXFZBO6EHRWRCRHW/IMG_20200605_144911_482.jpg?format=500w
+ https://images.squarespace-cdn.com/content/v1/5f074e1b6ab0e175b0642c64/1596564218249-9JE7F6I7JQZWZS03BU4P/IMG_20200702_184708_451.jpg?format=500w
+ https://images.squarespace-cdn.com/content/v1/5f074e1b6ab0e175b0642c64/1595789769436-36CEAFH3OCH074WCUILV/20200407_155258.jpg?format=500w
 
+And also added link of different Knives images inside the seedData. cs file 
 
