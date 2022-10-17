@@ -28,7 +28,7 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Small",
-                        Image = ""
+                        Image = "bestpocket knives1.jpeg"
                     },
 
 
@@ -40,8 +40,86 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Medium Tip",
-                        Image = ""
+                        Image = "bestpocket knives2.jpeg"
                     },
+
+                     new Knife
+                     {
+                         Name = "Gerber",
+                         Price = 2.49M,
+                         Type = "Felt ",
+                         Colour = "Black",
+                         Size = "Small",
+                         Image = "gerber.jpeg"
+                     },
+                    new Knife
+                    {
+                        Name = "Knife3",
+                        Price = 2.49M,
+                        Type = "Felt ",
+                        Colour = "Brown",
+                        Size = "Small",
+                        Image = "knife3.jpeg"
+                    },
+                    new Knife
+                    {
+                        Name = "Knifeblades",
+                        Price = 2.49M,
+                        Type = "Felt ",
+                        Colour = "Black",
+                        Size = "Small",
+                        Image = "knifeblades.jpeg"
+                    },
+                     new Knife
+                     {
+                         Name = "Knifeplanet",
+                         Price = 4.49M,
+                         Type = "Felt ",
+                         Colour = "White",
+                         Size = "Small",
+                         Image = "knifeplanet.jpeg"
+                     },
+                    new Knife
+                    {
+                        Name = "Popular",
+                        Price = 2.49M,
+                        Type = "Felt ",
+                        Colour = "Black",
+                        Size = "Small",
+                        Image = "popular.jpeg"
+                    },
+
+                    new Knife
+                    {
+                        Name = "Rollerknife",
+                        Price = 2.49M,
+                        Type = "Felt ",
+                        Colour = "Black",
+                        Size = "Small",
+                        Image = "rollerknife.jpeg"
+                    },
+
+                    new Knife
+                    {
+                        Name = "Stanely",
+                        Price = 2.49M,
+                        Type = "Felt ",
+                        Colour = "Black",
+                        Size = "Small",
+                        Image = "stanely.jpeg"
+                    },
+
+                     new Knife
+                     {
+                         Name = "Strange",
+                         Price = 2.49M,
+                         Type = "Felt ",
+                         Colour = "Black",
+                         Size = "Small",
+                         Image = "strange.jpeg"
+                     },
+
+
 
                      new Knife
                      {
@@ -50,85 +128,7 @@ namespace KnifeApp.Models
                          Type = "Felt ",
                          Colour = "Black",
                          Size = "Small",
-                         Image = ""
-                     },
-                    new Knife
-                    {
-                        Name = "Forged",
-                        Price = 2.49M,
-                        Type = "Felt ",
-                        Colour = "Black",
-                        Size = "Small",
-                        Image = ""
-                    },
-                    new Knife
-                    {
-                        Name = "Forged",
-                        Price = 2.49M,
-                        Type = "Felt ",
-                        Colour = "Black",
-                        Size = "Small",
-                        Image = ""
-                    },
-                     new Knife
-                     {
-                         Name = "Forged",
-                         Price = 2.49M,
-                         Type = "Felt ",
-                         Colour = "Black",
-                         Size = "Small",
-                         Image = ""
-                     },
-                    new Knife
-                    {
-                        Name = "Forged",
-                        Price = 2.49M,
-                        Type = "Felt ",
-                        Colour = "Black",
-                        Size = "Small",
-                        Image = ""
-                    },
-
-                    new Knife
-                    {
-                        Name = "Forged",
-                        Price = 2.49M,
-                        Type = "Felt ",
-                        Colour = "Black",
-                        Size = "Small",
-                        Image = ""
-                    },
-
-                    new Knife
-                    {
-                        Name = "Forged",
-                        Price = 2.49M,
-                        Type = "Felt ",
-                        Colour = "Black",
-                        Size = "Small",
-                        Image = ""
-                    },
-
-                     new Knife
-                     {
-                         Name = "Forged",
-                         Price = 2.49M,
-                         Type = "Felt ",
-                         Colour = "Black",
-                         Size = "Small",
-                         Image = ""
-                     },
-
-
-
-                     new Knife
-                     {
-                         Name = "Forged",
-                         Price = 2.49M,
-                         Type = "Felt ",
-                         Colour = "Black",
-                         Size = "Small",
-                         Image = ""
+                         Image = "knifeblades.jpeg"
                      },
 
 
@@ -140,7 +140,7 @@ namespace KnifeApp.Models
                         Type = "Felt ",
                         Colour = "Black",
                         Size = "Small",
-                        Image = ""
+                        Image = "stanely.jpeg"
                     }
 
 
