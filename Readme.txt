@@ -30,3 +30,34 @@ Following this, I did scaffolding to produce Create, Read, Update, and Delete (C
 Then I added the file of SeedData.cs in model folder and put minimum 10 entries.
 Made changes in Program.cs file to Add the seed initializer
 Then i tested it.
+
+Part 6, controller methods and views in ASP.NET Core
+Open the Models/Knife.cs and added some data annotations
+
+Then i tested it
+
+Following this I Examine all the files of Knives like index.cshtml,Edit.cshtml,Create.cshtml
+Processed the POST Request
+
+Part 7, added search 
+
+Add Search by types. For this I Add the  KnifeTypeViewModel class to the Models folder along with its propesties
+
+Add search by Types to the Index view.For this I Update Index.cshtml found in Views/Movies
+
+Part 8, I forget to add Rating properity in the knife.cs file
+For this I update the [Bind] attribute for both the Create and Edit action methods to include the Rating property
+Update the view templates in order to display, create, and edit the new Rating property
+
+
+Finally,Part 9, add validation to the KnifeApp.
+For this I added following
+[RegularExpression(@"^[A-Z]+[a-zA-Z\s]*$")]
+    [Required]
+    [StringLength(30)]
+
+ [Range(1, 100)]
+        [DataType(DataType.Currency)]
+        [Column(TypeName = "decimal(18, 2)")]
+
+At the end i examine All  Details and Delete methods of KnifeApp 
