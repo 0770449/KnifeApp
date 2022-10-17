@@ -61,3 +61,12 @@ For this I added following
         [Column(TypeName = "decimal(18, 2)")]
 
 At the end i examine All  Details and Delete methods of KnifeApp 
+
+Then I decided the layout of my Company and named it Navigator Knife Co.
+I added some images, links, paragraphs related to this Company in Index.cshtml inside View/Home.
+And also A About Us page which is displaying the information regarding the employees their contact info. and many more.
+
+I forget to take the pictures of kinves.
+For this purpose i downloaded some pictures and added all of the images in the wwwrootfolder under image folder
+
+
